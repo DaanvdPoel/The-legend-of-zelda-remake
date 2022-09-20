@@ -1,0 +1,670 @@
+fileFormatVersion: 2
+guid: b81f5991dba557a47bac4dd39d48ea47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -633851341659223646
+    second: Idile_Walk-01_Down
+  - first:
+      213: 2562419148889784694
+    second: Idile_Walk-01_Left
+  - first:
+      213: 953316042663266989
+    second: Idile_Walk-01_Up
+  - first:
+      213: 6341374150313325008
+    second: Walk-02_Right
+  - first:
+      213: -1415642647762822821
+    second: Walk-02_Down
+  - first:
+      213: 6554722810610960349
+    second: Walk-02_Left
+  - first:
+      213: 58214095052477196
+    second: Walk-02_Up
+  - first:
+      213: 5437626983862498484
+    second: Idile_Walk-01_Right
+  - first:
+      213: -8937741443305313020
+    second: Atk_Down
+  - first:
+      213: 4450093853896399950
+    second: Atk_Left
+  - first:
+      213: -1244705457520303183
+    second: Atk_Up
+  - first:
+      213: 2207583829533700936
+    second: Atk_Right
+  - first:
+      213: -9163072238457870052
+    second: zelda-sprites-link2_12
+  - first:
+      213: 5052533029787331438
+    second: zelda-sprites-link2_13
+  - first:
+      213: 4754129513628676149
+    second: zelda-sprites-link2_14
+  - first:
+      213: -929979759537537334
+    second: zelda-sprites-link2_15
+  - first:
+      213: 8455402837305762712
+    second: zelda-sprites-link2_16
+  - first:
+      213: -7040100155659583314
+    second: zelda-sprites-link2_17
+  - first:
+      213: 1337920074961701824
+    second: zelda-sprites-link2_18
+  - first:
+      213: 1087330953264908707
+    second: zelda-sprites-link2_19
+  - first:
+      213: 2475682635670245709
+    second: zelda-sprites-link2_20
+  - first:
+      213: -1056571230414287907
+    second: zelda-sprites-link2_21
+  - first:
+      213: 7309181658008794290
+    second: zelda-sprites-link2_22
+  - first:
+      213: 8744114190435831834
+    second: Cheer_01
+  - first:
+      213: -3622741196483636619
+    second: Cheer_02
+  - first:
+      213: 7687575569332939832
+    second: zelda-sprites-link2_25
+  - first:
+      213: 4900288966532181637
+    second: zelda-sprites-link2_26
+  - first:
+      213: -8113322133427027065
+    second: zelda-sprites-link2_27
+  - first:
+      213: 8002932818282104062
+    second: zelda-sprites-link2_28
+  - first:
+      213: -1900319895341543606
+    second: zelda-sprites-link2_29
+  - first:
+      213: 1597491053126361400
+    second: zelda-sprites-link2_30
+  - first:
+      213: 6189782431801715486
+    second: zelda-sprites-link2_31
+  - first:
+      213: 5026201985381967139
+    second: zelda-sprites-link2_32
+  - first:
+      213: -4285486461322619046
+    second: zelda-sprites-link2_33
+  - first:
+      213: -2544221932612986922
+    second: zelda-sprites-link2_34
+  - first:
+      213: -1715586426845749122
+    second: zelda-sprites-link2_35
+  - first:
+      213: 1886096014613535710
+    second: zelda-sprites-link2_36
+  - first:
+      213: -1618323172573521019
+    second: zelda-sprites-link2_37
+  - first:
+      213: -4707075726037302858
+    second: zelda-sprites-link2_38
+  - first:
+      213: -4206650578913912363
+    second: zelda-sprites-link2_39
+  - first:
+      213: 5159551604673388281
+    second: Idile_Walk-01_Down
+  - first:
+      213: 2908343470126112697
+    second: Idile_Walk-01_Left
+  - first:
+      213: 1345609894807956873
+    second: Idile_Walk-01_Up
+  - first:
+      213: -5266825147244280261
+    second: Walk-02_Right
+  - first:
+      213: -2949437005164910515
+    second: Walk-02_Down
+  - first:
+      213: 6573700714298302757
+    second: Walk-02_Left
+  - first:
+      213: 6946890847193574806
+    second: Walk-02_Up
+  - first:
+      213: -5860094223344158515
+    second: Idile_Walk-01_Right
+  - first:
+      213: 1178627931439864170
+    second: Atk_Down
+  - first:
+      213: 8848925738724794019
+    second: Atk_Left
+  - first:
+      213: 5209770352743021621
+    second: Atk_Up
+  - first:
+      213: 3542969841507832722
+    second: Atk_Right
+  - first:
+      213: -2355027604458288103
+    second: zelda-sprites-link2_12
+  - first:
+      213: 630591222516317650
+    second: zelda-sprites-link2_13
+  - first:
+      213: 9212812008869213043
+    second: zelda-sprites-link2_14
+  - first:
+      213: 3688322082199376489
+    second: zelda-sprites-link2_15
+  - first:
+      213: 852386993395140740
+    second: zelda-sprites-link2_16
+  - first:
+      213: 2568002809139094789
+    second: zelda-sprites-link2_17
+  - first:
+      213: 6806166015685407871
+    second: zelda-sprites-link2_18
+  - first:
+      213: -711574416400591443
+    second: zelda-sprites-link2_19
+  - first:
+      213: -5563545102905967048
+    second: zelda-sprites-link2_20
+  - first:
+      213: 5007355188017146541
+    second: zelda-sprites-link2_21
+  - first:
+      213: 7656200179874176736
+    second: zelda-sprites-link2_22
+  - first:
+      213: 5036797555754798368
+    second: Cheer_01
+  - first:
+      213: 8279571822682504698
+    second: Cheer_02
+  - first:
+      213: 9132627419582753551
+    second: zelda-sprites-link2_25
+  - first:
+      213: 4276829011917080835
+    second: zelda-sprites-link2_26
+  - first:
+      213: 753924862417537969
+    second: zelda-sprites-link2_27
+  - first:
+      213: -8489039328515746338
+    second: zelda-sprites-link2_28
+  - first:
+      213: 1112710235639952425
+    second: zelda-sprites-link2_29
+  - first:
+      213: -7972820156208453651
+    second: zelda-sprites-link2_30
+  - first:
+      213: -3965998180210848837
+    second: zelda-sprites-link2_31
+  - first:
+      213: 6413437548022127458
+    second: zelda-sprites-link2_32
+  - first:
+      213: 6734401342245152494
+    second: zelda-sprites-link2_33
+  - first:
+      213: -4103409086873040749
+    second: zelda-sprites-link2_34
+  - first:
+      213: 8357322889062826887
+    second: zelda-sprites-link2_35
+  - first:
+      213: 4664586393670088359
+    second: zelda-sprites-link2_36
+  - first:
+      213: -3682042383936237062
+    second: zelda-sprites-link2_37
+  - first:
+      213: 5159551604673388281
+    second: zelda-sprites-link2_0
+  - first:
+      213: 2908343470126112697
+    second: zelda-sprites-link2_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idile_Walk-01_Down
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe9ad419d86a9740800000000000000
+      internalID: -633851341659223646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idile_Walk-01_Left
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 169
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf91bd1af28c5820800000000000000
+      internalID: 2562419148889784694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idile_Walk-01_Up
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 169
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d674ae1119ca210800000000000000
+      internalID: 953316042663266989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-02_Right
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 170
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b360964fe6a78e6b0800000000000000
+      internalID: 6341374150313325008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-02_Down
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e0cbabae7117d0800000000000000
+      internalID: -1415642647762822821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-02_Left
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 140
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5216b7f78f97a3b50800000000000000
+      internalID: 6554722810610960349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-02_Up
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 139
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da2685b60586060800000000000000
+      internalID: 58214095052477196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idile_Walk-01_Right
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 139
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8b04b1a53ccaea0800000000000000
+      internalID: 5437626983862498484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atk_Down
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6993d7ebd35b5010800000000000000
+      internalID: -8937741443305313020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atk_Left
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 110
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae90846313bdca70800000000000000
+      internalID: 4450093853896399950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atk_Up
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 109
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cfb948882dc4840800000000000000
+      internalID: -1244705457520303183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atk_Right
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 110
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2931ff4ac482b2130800000000000000
+      internalID: 2207583829533700936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d025cd0bc46e540800000000000000
+      internalID: 8744114190435831834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer_02
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 19
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf257a4b2f6e270800000000000000
+      internalID: -3622741196483636619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Walk-02_Left: 6554722810610960349
+      Atk_Right: 2207583829533700936
+      Idile_Walk-01_Left: 2562419148889784694
+      Atk_Left: 4450093853896399950
+      Idile_Walk-01_Right: 5437626983862498484
+      Idile_Walk-01_Down: -633851341659223646
+      Cheer_01: 8744114190435831834
+      Idile_Walk-01_Up: 953316042663266989
+      Atk_Up: -1244705457520303183
+      Walk-02_Down: -1415642647762822821
+      Walk-02_Up: 58214095052477196
+      Cheer_02: -3622741196483636619
+      Atk_Down: -8937741443305313020
+      Walk-02_Right: 6341374150313325008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

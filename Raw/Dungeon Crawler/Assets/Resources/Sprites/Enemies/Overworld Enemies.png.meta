@@ -1,0 +1,4950 @@
+fileFormatVersion: 2
+guid: 3d0d24e4e054c63478fa05451664883b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8252857350835897824
+    second: Red Octorok_Left_Idle_01
+  - first:
+      213: -2591238218438567548
+    second: Red Octorok_Left_Walk_02
+  - first:
+      213: -8730454337814200269
+    second: Red Octorok_Down_Idle_01
+  - first:
+      213: -3143006809252994826
+    second: Red Octorok_Down_Walk_02
+  - first:
+      213: 3160082287131160703
+    second: Red Octorok_Right_Idle_01
+  - first:
+      213: -3297648184262409386
+    second: Red Octorok_Right_Walk_02
+  - first:
+      213: -5981452176095602635
+    second: Red Octorok_Up_Idle_01
+  - first:
+      213: -1598911870898289475
+    second: Red Octorok_Up_Walk_02
+  - first:
+      213: -7311520322289685051
+    second: Blue Octorok_Left_Idle_01
+  - first:
+      213: 5613563519233859797
+    second: Blue Octorok_Left_Walk_02
+  - first:
+      213: 6525628187772723996
+    second: Blue Octorok_Down_Idle_01
+  - first:
+      213: 202763193015111572
+    second: Blue Octorok_Down_Walk_02
+  - first:
+      213: -4348394525731003560
+    second: Blue Octorok_Right_Idle_01
+  - first:
+      213: -3632067773389686725
+    second: Blue Octorok_Right_Walk_02
+  - first:
+      213: 6949535642688093731
+    second: Blue Octorok_Up_Idle_01
+  - first:
+      213: 2896451998142649595
+    second: Blue Octorok_Up_Walk_02
+  - first:
+      213: -5840466563482875041
+    second: Rock_Projectile
+  - first:
+      213: 7839268753429416710
+    second: Overworld Enemies_17
+  - first:
+      213: 5120335459007589113
+    second: Overworld Enemies_18
+  - first:
+      213: 7933049225321570225
+    second: Overworld Enemies_19
+  - first:
+      213: -5673624771958552799
+    second: Overworld Enemies_20
+  - first:
+      213: 3537060932733250282
+    second: Overworld Enemies_21
+  - first:
+      213: -6065323645902491296
+    second: Overworld Enemies_22
+  - first:
+      213: -7610840063035636885
+    second: Overworld Enemies_23
+  - first:
+      213: -23232968833878264
+    second: Overworld Enemies_24
+  - first:
+      213: -5062596717115594593
+    second: Overworld Enemies_25
+  - first:
+      213: -3427959235613463756
+    second: Overworld Enemies_26
+  - first:
+      213: 6048161378916571431
+    second: Overworld Enemies_27
+  - first:
+      213: 4275956235107179582
+    second: EndBoss_Left_01
+  - first:
+      213: -3180691264696410299
+    second: EndBoss_Left_02
+  - first:
+      213: 2153535124197978440
+    second: EndBoss_Down_01
+  - first:
+      213: -5787431501357925944
+    second: EndBoss_Down_02
+  - first:
+      213: -4322472019035706961
+    second: EndBoss_Right_01
+  - first:
+      213: 1615017561430090307
+    second: EndBoss_Right_02
+  - first:
+      213: 7812238921061005166
+    second: EndBoss_Up_01
+  - first:
+      213: -5931858769686612574
+    second: EndBoss_Up_02
+  - first:
+      213: -3023163690254220261
+    second: Overworld Enemies_36
+  - first:
+      213: 4648661844376315036
+    second: Overworld Enemies_37
+  - first:
+      213: 7235124635885144955
+    second: Overworld Enemies_38
+  - first:
+      213: 9143166954354511627
+    second: Overworld Enemies_39
+  - first:
+      213: -7923632159636798500
+    second: Overworld Enemies_40
+  - first:
+      213: -2056392804523386818
+    second: Overworld Enemies_41
+  - first:
+      213: -589940896443337051
+    second: Overworld Enemies_42
+  - first:
+      213: 2470161762096507389
+    second: Overworld Enemies_43
+  - first:
+      213: -4005718587224040065
+    second: Overworld Enemies_44
+  - first:
+      213: -98824415959018105
+    second: Overworld Enemies_45
+  - first:
+      213: -3155718596017841120
+    second: Overworld Enemies_46
+  - first:
+      213: 4802445066307226454
+    second: Overworld Enemies_47
+  - first:
+      213: -5203094625190177117
+    second: Overworld Enemies_48
+  - first:
+      213: 249829475698510069
+    second: Overworld Enemies_49
+  - first:
+      213: -7552358899521049614
+    second: Overworld Enemies_50
+  - first:
+      213: -5451297892826776141
+    second: Overworld Enemies_51
+  - first:
+      213: -331363919366804624
+    second: Overworld Enemies_52
+  - first:
+      213: -9205090381562528969
+    second: Overworld Enemies_53
+  - first:
+      213: -2808987306732103424
+    second: Overworld Enemies_54
+  - first:
+      213: -7226593723275264475
+    second: Overworld Enemies_55
+  - first:
+      213: 2844056486705126611
+    second: Overworld Enemies_56
+  - first:
+      213: -5626321837468096522
+    second: Overworld Enemies_57
+  - first:
+      213: 8374197127009688195
+    second: Overworld Enemies_58
+  - first:
+      213: 5697176079169201337
+    second: Overworld Enemies_59
+  - first:
+      213: 4297450706344290690
+    second: Overworld Enemies_60
+  - first:
+      213: -444966433798331399
+    second: Overworld Enemies_61
+  - first:
+      213: -3556159896529330817
+    second: Overworld Enemies_62
+  - first:
+      213: -3337800499531534466
+    second: Overworld Enemies_63
+  - first:
+      213: 5559086203803028666
+    second: Spawn_Explosie_03
+  - first:
+      213: 8853363255762763274
+    second: Overworld Enemies_65
+  - first:
+      213: 8900494355795416851
+    second: Overworld Enemies_66
+  - first:
+      213: -7602347835826813247
+    second: Overworld Enemies_67
+  - first:
+      213: -8374804272715992640
+    second: Overworld Enemies_68
+  - first:
+      213: -5883654605547214343
+    second: Overworld Enemies_69
+  - first:
+      213: 9161026491136114384
+    second: Overworld Enemies_70
+  - first:
+      213: -7132290317868264669
+    second: Overworld Enemies_71
+  - first:
+      213: -288526462509518991
+    second: Overworld Enemies_72
+  - first:
+      213: 8213109339518616148
+    second: Overworld Enemies_73
+  - first:
+      213: 6502039469344489866
+    second: Overworld Enemies_74
+  - first:
+      213: -8033112889160174536
+    second: Overworld Enemies_75
+  - first:
+      213: 2701503694141648474
+    second: Overworld Enemies_76
+  - first:
+      213: -3450432160622643618
+    second: Overworld Enemies_77
+  - first:
+      213: 5679231899262427077
+    second: Overworld Enemies_78
+  - first:
+      213: -2354307211012736119
+    second: Overworld Enemies_79
+  - first:
+      213: 3171760350951436171
+    second: Overworld Enemies_80
+  - first:
+      213: 5296509035520738466
+    second: Overworld Enemies_81
+  - first:
+      213: 9044086317396204405
+    second: Overworld Enemies_82
+  - first:
+      213: -2423549666013002445
+    second: Overworld Enemies_83
+  - first:
+      213: -4085651225453518334
+    second: Overworld Enemies_84
+  - first:
+      213: 1412217137689982173
+    second: Overworld Enemies_85
+  - first:
+      213: 3694624873378928536
+    second: Overworld Enemies_86
+  - first:
+      213: 6101994643981932385
+    second: Overworld Enemies_87
+  - first:
+      213: 3195507273009091290
+    second: Overworld Enemies_88
+  - first:
+      213: 690605399553477204
+    second: Overworld Enemies_89
+  - first:
+      213: -6665895102931661506
+    second: Overworld Enemies_90
+  - first:
+      213: -2816750686792379306
+    second: Overworld Enemies_91
+  - first:
+      213: 8700564132070383560
+    second: Overworld Enemies_92
+  - first:
+      213: -931927692715043782
+    second: Overworld Enemies_93
+  - first:
+      213: 6430109512332308091
+    second: Overworld Enemies_94
+  - first:
+      213: -3720706897444613697
+    second: Overworld Enemies_95
+  - first:
+      213: -8490269057282314443
+    second: Overworld Enemies_96
+  - first:
+      213: 6554860933395000947
+    second: Overworld Enemies_97
+  - first:
+      213: 3987553177849387675
+    second: Overworld Enemies_98
+  - first:
+      213: 7332275297161958902
+    second: Overworld Enemies_99
+  - first:
+      213: -6798286198345273486
+    second: Overworld Enemies_100
+  - first:
+      213: -6356648972892297208
+    second: Overworld Enemies_101
+  - first:
+      213: 1693036224694517963
+    second: Overworld Enemies_102
+  - first:
+      213: 4211505453877283073
+    second: Overworld Enemies_103
+  - first:
+      213: 6139413598579983128
+    second: Overworld Enemies_104
+  - first:
+      213: 922553153215068807
+    second: Overworld Enemies_105
+  - first:
+      213: 6755985968045849339
+    second: Overworld Enemies_106
+  - first:
+      213: -1725950521770576024
+    second: Overworld Enemies_107
+  - first:
+      213: -7604332840160243780
+    second: Overworld Enemies_108
+  - first:
+      213: 6129459153118029503
+    second: Overworld Enemies_109
+  - first:
+      213: 634785435307355843
+    second: Overworld Enemies_110
+  - first:
+      213: -6416237109769650074
+    second: Overworld Enemies_111
+  - first:
+      213: 5799773168714559698
+    second: Overworld Enemies_112
+  - first:
+      213: 6142308250036436224
+    second: Overworld Enemies_113
+  - first:
+      213: -948309345454271176
+    second: Overworld Enemies_114
+  - first:
+      213: -7185364166185421698
+    second: Overworld Enemies_115
+  - first:
+      213: 1290566325080790191
+    second: Overworld Enemies_116
+  - first:
+      213: 8244639565591000078
+    second: Overworld Enemies_117
+  - first:
+      213: 6336001874271003244
+    second: Overworld Enemies_118
+  - first:
+      213: -1820538010136365435
+    second: Overworld Enemies_119
+  - first:
+      213: 4201756479292893415
+    second: Overworld Enemies_120
+  - first:
+      213: -6214819896008411855
+    second: Overworld Enemies_121
+  - first:
+      213: 5379865853900359031
+    second: Overworld Enemies_122
+  - first:
+      213: 3179543118564376525
+    second: Overworld Enemies_123
+  - first:
+      213: 7099699477883196325
+    second: Overworld Enemies_124
+  - first:
+      213: -3093741308454539435
+    second: Overworld Enemies_125
+  - first:
+      213: 9178590799432903320
+    second: Overworld Enemies_126
+  - first:
+      213: 3810975410103614019
+    second: Overworld Enemies_127
+  - first:
+      213: -9019817732130580433
+    second: FireBall
+  - first:
+      213: 9121771742679829036
+    second: Overworld Enemies_129
+  - first:
+      213: 2364397552961156161
+    second: Spawn_Explosie_01
+  - first:
+      213: 2717933003573740805
+    second: Spawn_Explosie_02
+  - first:
+      213: 5102237999388905066
+    second: Overworld Enemies_132
+  - first:
+      213: -1939443486961659572
+    second: Overworld Enemies_133
+  - first:
+      213: -3759210722551251063
+    second: Overworld Enemies_134
+  - first:
+      213: -1195125721396186273
+    second: Overworld Enemies_135
+  - first:
+      213: 7062646995305601662
+    second: Overworld Enemies_136
+  - first:
+      213: 1535553665345600823
+    second: Overworld Enemies_137
+  - first:
+      213: 8322793579170356323
+    second: Overworld Enemies_138
+  - first:
+      213: -2677260016499313967
+    second: Overworld Enemies_139
+  - first:
+      213: -3175254011810940837
+    second: Overworld Enemies_140
+  - first:
+      213: 1537742534487764900
+    second: Overworld Enemies_141
+  - first:
+      213: -3533880531692130215
+    second: Overworld Enemies_142
+  - first:
+      213: -5261165694632111598
+    second: Overworld Enemies_143
+  - first:
+      213: -4240713008780844779
+    second: Overworld Enemies_144
+  - first:
+      213: -6508402371307361000
+    second: Overworld Enemies_145
+  - first:
+      213: 3716029176576357506
+    second: Overworld Enemies_146
+  - first:
+      213: 8004642766225512028
+    second: Overworld Enemies_147
+  - first:
+      213: -7746831549301398495
+    second: Overworld Enemies_148
+  - first:
+      213: 6784149337912267441
+    second: Overworld Enemies_149
+  - first:
+      213: 1597657513074406877
+    second: Overworld Enemies_150
+  - first:
+      213: 5175649141775094035
+    second: Overworld Enemies_151
+  - first:
+      213: 5628557595703306307
+    second: Overworld Enemies_152
+  - first:
+      213: 309292558450348647
+    second: Overworld Enemies_153
+  - first:
+      213: 7904071157076654060
+    second: Overworld Enemies_154
+  - first:
+      213: 8900629901560196990
+    second: Overworld Enemies_155
+  - first:
+      213: -7645703718682792991
+    second: Overworld Enemies_156
+  - first:
+      213: 9173189599061166646
+    second: Overworld Enemies_157
+  - first:
+      213: -4763617375145610829
+    second: Overworld Enemies_158
+  - first:
+      213: -4401195936772097911
+    second: Overworld Enemies_159
+  - first:
+      213: -1343095746739795156
+    second: Overworld Enemies_160
+  - first:
+      213: -5561847641925090215
+    second: Overworld Enemies_161
+  - first:
+      213: -5481015629576838102
+    second: Overworld Enemies_162
+  - first:
+      213: -594700042505872148
+    second: Overworld Enemies_163
+  - first:
+      213: 4965004878886971295
+    second: Overworld Enemies_164
+  - first:
+      213: -8150713351714034521
+    second: Overworld Enemies_165
+  - first:
+      213: -3042072797215242152
+    second: Overworld Enemies_166
+  - first:
+      213: -8875954794809559732
+    second: Overworld Enemies_167
+  - first:
+      213: 3404644628027526904
+    second: Overworld Enemies_168
+  - first:
+      213: 5314656566996446564
+    second: Overworld Enemies_169
+  - first:
+      213: -6528424338158499967
+    second: Overworld Enemies_170
+  - first:
+      213: 3889100113203002302
+    second: Overworld Enemies_171
+  - first:
+      213: 2073960810932195478
+    second: Overworld Enemies_172
+  - first:
+      213: -7406100507093493521
+    second: Overworld Enemies_173
+  - first:
+      213: 1783226925578426196
+    second: Overworld Enemies_174
+  - first:
+      213: 1206206012612272938
+    second: Overworld Enemies_175
+  - first:
+      213: -4346888701081361049
+    second: Overworld Enemies_176
+  - first:
+      213: -150809173645001476
+    second: Overworld Enemies_177
+  - first:
+      213: 6860036648829853368
+    second: Overworld Enemies_178
+  - first:
+      213: 1859797947790956004
+    second: Overworld Enemies_179
+  - first:
+      213: -6519998861640579600
+    second: Overworld Enemies_180
+  - first:
+      213: -136503869697125805
+    second: Overworld Enemies_181
+  - first:
+      213: -1073427135327935719
+    second: Overworld Enemies_182
+  - first:
+      213: 1299460078910653134
+    second: Overworld Enemies_183
+  - first:
+      213: -2615172730487717519
+    second: Overworld Enemies_184
+  - first:
+      213: 86055239539104799
+    second: Overworld Enemies_185
+  - first:
+      213: 4885170918047300131
+    second: Overworld Enemies_186
+  - first:
+      213: -6793790291062889931
+    second: Overworld Enemies_187
+  - first:
+      213: -2048636302391374979
+    second: Overworld Enemies_188
+  - first:
+      213: -2799203860115243589
+    second: Overworld Enemies_189
+  - first:
+      213: 3053787710231174430
+    second: Overworld Enemies_190
+  - first:
+      213: 4978484093562294580
+    second: Overworld Enemies_191
+  - first:
+      213: 5658754139662049932
+    second: Overworld Enemies_192
+  - first:
+      213: -9004402733745544067
+    second: Overworld Enemies_193
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Octorok_Left_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a747507f5f77d80800000000000000
+      internalID: -8252857350835897824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Octorok_Left_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4899d8db1921a0cd0800000000000000
+      internalID: -2591238218438567548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Octorok_Down_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33001d2290237d680800000000000000
+      internalID: -8730454337814200269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Octorok_Down_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f067d795fbc164d0800000000000000
+      internalID: -3143006809252994826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Octorok_Right_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70f479e81edadb20800000000000000
+      internalID: 3160082287131160703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Octorok_Right_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653c3d6b2766c32d0800000000000000
+      internalID: -3297648184262409386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Octorok_Up_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53895dadfec9dfca0800000000000000
+      internalID: -5981452176095602635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Octorok_Up_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c3f3ff168fc9e0800000000000000
+      internalID: -1598911870898289475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Octorok_Left_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdafd54103488a90800000000000000
+      internalID: -7311520322289685051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Octorok_Left_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0a600674267ed40800000000000000
+      internalID: 5613563519233859797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Octorok_Down_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1328743340bf8a50800000000000000
+      internalID: 6525628187772723996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Octorok_Down_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f803dbc0c50d200800000000000000
+      internalID: 202763193015111572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Octorok_Right_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853ec86b73667a3c0800000000000000
+      internalID: -4348394525731003560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Octorok_Right_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38b6f68a9d489dc0800000000000000
+      internalID: -3632067773389686725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Octorok_Up_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ef658c8d5b17060800000000000000
+      internalID: 6949535642688093731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Octorok_Up_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4534a0fb3423820800000000000000
+      internalID: 2896451998142649595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_Projectile
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 76
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b8e09ca9e72fea0800000000000000
+      internalID: -5840466563482875041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 74
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bcaf2a56daacc60800000000000000
+      internalID: 7839268753429416710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 74
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faebf4a8f51f0740800000000000000
+      internalID: 5120335459007589113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 74
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfdaf44d3ad71e60800000000000000
+      internalID: 7933049225321570225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 72
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127cd8e745c3341b0800000000000000
+      internalID: -5673624771958552799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea2a7c9d2a261130800000000000000
+      internalID: 3537060932733250282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061743e8744a3dba0800000000000000
+      internalID: -6065323645902491296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b630370694dd06690800000000000000
+      internalID: -7610840063035636885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8073499ecb57daff0800000000000000
+      internalID: -23232968833878264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 72
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98244bcb1b0eb9b0800000000000000
+      internalID: -5062596717115594593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b6db0cc317d60d0800000000000000
+      internalID: -3427959235613463756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7291f86cab26fe350800000000000000
+      internalID: 6048161378916571431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndBoss_Left_01
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 72
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c1ea47a8f375b30800000000000000
+      internalID: 4275956235107179582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndBoss_Left_02
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f1593952aebd3d0800000000000000
+      internalID: -3180691264696410299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndBoss_Down_01
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841b52919c4e2ed10800000000000000
+      internalID: 2153535124197978440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndBoss_Down_02
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b7af66b9eeafa0800000000000000
+      internalID: -5787431501357925944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndBoss_Right_01
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9afc1a99e7304c0800000000000000
+      internalID: -4322472019035706961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndBoss_Right_02
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 72
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342ee075ae1b96610800000000000000
+      internalID: 1615017561430090307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndBoss_Up_01
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67725e58e5aa6c60800000000000000
+      internalID: 7812238921061005166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndBoss_Up_02
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a53b0790edcdada0800000000000000
+      internalID: -5931858769686612574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 77
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14c98024a09b06d0800000000000000
+      internalID: -3023163690254220261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 72
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9466fa515d538040800000000000000
+      internalID: 4648661844376315036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 78
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b8c93e583586460800000000000000
+      internalID: 7235124635885144955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 72
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f046407ed03ee70800000000000000
+      internalID: 9143166954354511627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3ccf1388a990290800000000000000
+      internalID: -7923632159636798500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38d6b7b3a93673e0800000000000000
+      internalID: -2056392804523386818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6f40d51eb10d7f0800000000000000
+      internalID: -589940896443337051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e38ff807c74220800000000000000
+      internalID: 2470161762096507389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 72
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd45a0b24d868c0800000000000000
+      internalID: -4005718587224040065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78590af97b7e0aef0800000000000000
+      internalID: -98824415959018105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c134918a2a434d0800000000000000
+      internalID: -3155718596017841120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 72
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bc196e756b5a240800000000000000
+      internalID: 4802445066307226454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a69bcc6105eac7b0800000000000000
+      internalID: -5203094625190177117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f88e61a592977300800000000000000
+      internalID: 249829475698510069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fba9c15891a03790800000000000000
+      internalID: -7552358899521049614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd793dd2791954b0800000000000000
+      internalID: -5451297892826776141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ba2ce5542c66bf0800000000000000
+      internalID: -331363919366804624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bb9919113f04080800000000000000
+      internalID: -9205090381562528969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 72
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009d6ab5de87409d0800000000000000
+      internalID: -2808987306732103424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e3c1cfb4bf5bb90800000000000000
+      internalID: -7226593723275264475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc54336e4e187720800000000000000
+      internalID: 2844056486705126611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7e0bd291a4be1b0800000000000000
+      internalID: -5626321837468096522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a528a2bef173470800000000000000
+      internalID: 8374197127009688195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 72
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4abb5857f601f40800000000000000
+      internalID: 5697176079169201337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 72
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289276706ac93ab30800000000000000
+      internalID: 4297450706344290690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 72
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f36a70d26923d9f0800000000000000
+      internalID: -444966433798331399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 72
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d11ea5a6bf5aec0800000000000000
+      internalID: -3556159896529330817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 72
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f2d4e4120cda1d0800000000000000
+      internalID: -3337800499531534466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn_Explosie_03
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc4475f277d52d40800000000000000
+      internalID: 5559086203803028666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 72
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e3c3759f67dda70800000000000000
+      internalID: 8853363255762763274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 73
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3171e82b578e48b70800000000000000
+      internalID: 8900494355795416851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 73
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6459a1ce80f7690800000000000000
+      internalID: -7602347835826813247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1f655b2e7b6cb80800000000000000
+      internalID: -8374804272715992640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f964472f4f095ea0800000000000000
+      internalID: -5883654605547214343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de7c167e01822f70800000000000000
+      internalID: 9161026491136114384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32311809eb3050d90800000000000000
+      internalID: -7132290317868264669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fe1d506b2fefbf0800000000000000
+      internalID: -288526462509518991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452437bed63daf170800000000000000
+      internalID: 8213109339518616148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8109d5b272eb3a50800000000000000
+      internalID: 6502039469344489866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834fef87366a48090800000000000000
+      internalID: -8033112889160174536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ee7b0fb4bad7520800000000000000
+      internalID: 2701503694141648474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56f0882b3a9d10d0800000000000000
+      internalID: -3450432160622643618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf9a90925fa0de40800000000000000
+      internalID: 5679231899262427077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bf173b012d35fd0800000000000000
+      internalID: -2354307211012736119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fe0270c3b540c20800000000000000
+      internalID: 3171760350951436171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a44cdbd7eaf08940800000000000000
+      internalID: 5296509035520738466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b1f5a869c038d70800000000000000
+      internalID: 9044086317396204405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33547c55b62dd5ed0800000000000000
+      internalID: -2423549666013002445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20224be6bd9dc47c0800000000000000
+      internalID: -4085651225453518334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4fab52104399310800000000000000
+      internalID: 1412217137689982173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897d2145fb1f54330800000000000000
+      internalID: 3694624873378928536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16711e78cc3aea450800000000000000
+      internalID: 6101994643981932385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 49
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad252ec2fe8b85c20800000000000000
+      internalID: 3195507273009091290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a0a50b3f5859900800000000000000
+      internalID: 690605399553477204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d0eb7a8bbfd73a0800000000000000
+      internalID: -6665895102931661506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65417e49c24e8e8d0800000000000000
+      internalID: -2816750686792379306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 49
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf5f850bfc9eb870800000000000000
+      internalID: 8700564132070383560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34de5773b02113f0800000000000000
+      internalID: -931927692715043782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e6d6588865c3950800000000000000
+      internalID: 6430109512332308091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1d7783ac46d5cc0800000000000000
+      internalID: -3720706897444613697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 49
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f623996418c2a80800000000000000
+      internalID: -8490269057282314443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e281f2a4b87fa50800000000000000
+      internalID: 6554860933395000947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a51b00d72a65730800000000000000
+      internalID: 3987553177849387675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5d5b2e88971c560800000000000000
+      internalID: 7332275297161958902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 49
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f6032b8b2a7a1a0800000000000000
+      internalID: -6798286198345273486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80827e82075a8c7a0800000000000000
+      internalID: -6356648972892297208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc009cce97fde7710800000000000000
+      internalID: 1693036224694517963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 53
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109c9f395e5427a30800000000000000
+      internalID: 4211505453877283073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 48
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8130090d324933550800000000000000
+      internalID: 6139413598579983128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 48
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78afcc774319dcc00800000000000000
+      internalID: 922553153215068807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 53
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa75e4717512cd50800000000000000
+      internalID: 6755985968045849339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 53
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867f6f915213c08e0800000000000000
+      internalID: -1725950521770576024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 53
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4964429bf77690800000000000000
+      internalID: -7604332840160243780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 53
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6eddedf96301550800000000000000
+      internalID: 6129459153118029503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 53
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce261c7df53fc800800000000000000
+      internalID: 634785435307355843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 53
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6604085e752f4f6a0800000000000000
+      internalID: -6416237109769650074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0b21be7feec7050800000000000000
+      internalID: 5799773168714559698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d7f506fccdd3550800000000000000
+      internalID: 6142308250036436224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835d307bcade6d2f0800000000000000
+      internalID: -948309345454271176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7472bc4c55784c90800000000000000
+      internalID: -7185364166185421698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa495852c3309e110800000000000000
+      internalID: 1290566325080790191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04be20c008da6270800000000000000
+      internalID: 8244639565591000078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e12492200ee750800000000000000
+      internalID: 6336001874271003244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586b9bd43562cb6e0800000000000000
+      internalID: -1820538010136365435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8e2fc8143af4a30800000000000000
+      internalID: 4201756479292893415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135736b6b3680c9a0800000000000000
+      internalID: -6214819896008411855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7750cf88d7f19aa40800000000000000
+      internalID: 5379865853900359031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf3112de91002c20800000000000000
+      internalID: 3179543118564376525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3114f2f03378260800000000000000
+      internalID: 7099699477883196325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f6d9adba2d015d0800000000000000
+      internalID: -3093741308454539435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aeddaa3b7e06f70800000000000000
+      internalID: 9178590799432903320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a79fea1fd43e430800000000000000
+      internalID: 3810975410103614019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBall
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f285699cf8b23d280800000000000000
+      internalID: -9019817732130580433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a80ac121b079e70800000000000000
+      internalID: 9121771742679829036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn_Explosie_01
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1447d0c1c0700d020800000000000000
+      internalID: 2364397552961156161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spawn_Explosie_02
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505c251aaa908b520800000000000000
+      internalID: 2717933003573740805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 52
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4194b99c66b515e0800000000000000
+      internalID: -1939443486961659572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 49
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3e76d3c994dbc0800000000000000
+      internalID: -3759210722551251063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 49
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f537f3a0d7f0a6fe0800000000000000
+      internalID: -1195125721396186273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a9b21d500930260800000000000000
+      internalID: 7062646995305601662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d39744ce16f4510800000000000000
+      internalID: 1535553665345600823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cd9590aa0808370800000000000000
+      internalID: 8322793579170356323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2b331233678dad0800000000000000
+      internalID: -2677260016499313967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58ff5aac4b3fe3d0800000000000000
+      internalID: -3175254011810940837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afe62410b8275510800000000000000
+      internalID: 1537742534487764900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95072d5316225fec0800000000000000
+      internalID: -3533880531692130215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2125bf2fca59cf6b0800000000000000
+      internalID: -5261165694632111598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5116d3d9cf5f525c0800000000000000
+      internalID: -4240713008780844779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d2aeab6828da5a0800000000000000
+      internalID: -6508402371307361000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28432d409dcf19330800000000000000
+      internalID: 3716029176576357506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5695ca7f24361f60800000000000000
+      internalID: 8004642766225512028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124e91910c9bd7490800000000000000
+      internalID: -7746831549301398495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2567df0e3262e50800000000000000
+      internalID: 6784149337912267441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5b88b1b050c2610800000000000000
+      internalID: 1597657513074406877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3115f81097993d740800000000000000
+      internalID: 5175649141775094035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348e8b9df47ac1e40800000000000000
+      internalID: 5628557595703306307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762da1671f3da4400800000000000000
+      internalID: 309292558450348647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7f6fcf6d6e0bd60800000000000000
+      internalID: 7904071157076654060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f27b7ecb3658b70800000000000000
+      internalID: 8900629901560196990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb670ef9f005e590800000000000000
+      internalID: -7645703718682792991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a4955b657bd4f70800000000000000
+      internalID: 9173189599061166646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1319c6c3b34edb0800000000000000
+      internalID: -4763617375145610829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9887ec13d9fcbe2c0800000000000000
+      internalID: -4401195936772097911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b8c3cc88d5c5de0800000000000000
+      internalID: -1343095746739795156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9540630a90950d2b0800000000000000
+      internalID: -5561847641925090215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2465b613558fe3b0800000000000000
+      internalID: -5481015629576838102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec178256733fb7f0800000000000000
+      internalID: -594700042505872148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97a322b1ad37e440800000000000000
+      internalID: 4965004878886971295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac2d051469d2ee80800000000000000
+      internalID: -8150713351714034521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8584b1598e268c5d0800000000000000
+      internalID: -3042072797215242152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4573f4142642d480800000000000000
+      internalID: -8875954794809559732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec508204abf3f20800000000000000
+      internalID: 3404644628027526904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d250b4df371c940800000000000000
+      internalID: 5314656566996446564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1874c0d47a06665a0800000000000000
+      internalID: -6528424338158499967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb756792fbd8f530800000000000000
+      internalID: 3889100113203002302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690d1b58e5038cc10800000000000000
+      internalID: 2073960810932195478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe81ad7f3de383990800000000000000
+      internalID: -7406100507093493521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457930dd07b4fb810800000000000000
+      internalID: 1783226925578426196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23e1bb4afd4db010800000000000000
+      internalID: 1206206012612272938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_176
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765e2e5d1cfbca3c0800000000000000
+      internalID: -4346888701081361049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_177
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcf4080bd738edf0800000000000000
+      internalID: -150809173645001476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be1aaf6cfeb33f50800000000000000
+      internalID: 6860036648829853368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_179
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5941041645fc910800000000000000
+      internalID: 1859797947790956004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_180
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f546fb649f4485a0800000000000000
+      internalID: -6519998861640579600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_181
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3529c38247a0b1ef0800000000000000
+      internalID: -136503869697125805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_182
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913638a25bb6a11f0800000000000000
+      internalID: -1073427135327935719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_183
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec245439e0c980210800000000000000
+      internalID: 1299460078910653134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_184
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171cdf4e14a05bbd0800000000000000
+      internalID: -2615172730487717519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_185
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c1acfc8cab13100800000000000000
+      internalID: 86055239539104799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_186
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a3745311d9bc340800000000000000
+      internalID: 4885170918047300131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_187
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532e2bea9bb97b1a0800000000000000
+      internalID: -6793790291062889931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_188
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b0ef91328c193e0800000000000000
+      internalID: -2048636302391374979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_189
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdbde78bea3729d0800000000000000
+      internalID: -2799203860115243589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_190
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d58c72ebb316a20800000000000000
+      internalID: 3053787710231174430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_191
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43196bce7e0271540800000000000000
+      internalID: 4978484093562294580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_192
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82e3dd98eee78e40800000000000000
+      internalID: 5658754139662049932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overworld Enemies_193
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 72
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d746a88cb6fe90380800000000000000
+      internalID: -9004402733745544067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Overworld Enemies_36: -3023163690254220261
+      Overworld Enemies_191: 4978484093562294580
+      Overworld Enemies_65: 8853363255762763274
+      Overworld Enemies_24: -23232968833878264
+      Overworld Enemies_85: 1412217137689982173
+      Overworld Enemies_55: -7226593723275264475
+      Overworld Enemies_117: 8244639565591000078
+      Overworld Enemies_121: -6214819896008411855
+      Overworld Enemies_37: 4648661844376315036
+      Overworld Enemies_110: 634785435307355843
+      Overworld Enemies_189: -2799203860115243589
+      Overworld Enemies_26: -3427959235613463756
+      FireBall: -9019817732130580433
+      Overworld Enemies_144: -4240713008780844779
+      Overworld Enemies_127: 3810975410103614019
+      EndBoss_Up_01: 7812238921061005166
+      Overworld Enemies_137: 1535553665345600823
+      Overworld Enemies_167: -8875954794809559732
+      Overworld Enemies_114: -948309345454271176
+      Overworld Enemies_129: 9121771742679829036
+      Overworld Enemies_18: 5120335459007589113
+      Overworld Enemies_46: -3155718596017841120
+      Spawn_Explosie_02: 2717933003573740805
+      Overworld Enemies_75: -8033112889160174536
+      Blue Octorok_Up_Walk_02: 2896451998142649595
+      Overworld Enemies_139: -2677260016499313967
+      Overworld Enemies_155: 8900629901560196990
+      Overworld Enemies_59: 5697176079169201337
+      Overworld Enemies_141: 1537742534487764900
+      Blue Octorok_Down_Walk_02: 202763193015111572
+      Overworld Enemies_158: -4763617375145610829
+      Overworld Enemies_150: 1597657513074406877
+      Overworld Enemies_78: 5679231899262427077
+      Red Octorok_Up_Walk_02: -1598911870898289475
+      Overworld Enemies_70: 9161026491136114384
+      EndBoss_Right_01: -4322472019035706961
+      Overworld Enemies_159: -4401195936772097911
+      Overworld Enemies_175: 1206206012612272938
+      Overworld Enemies_104: 6139413598579983128
+      Overworld Enemies_105: 922553153215068807
+      Overworld Enemies_81: 5296509035520738466
+      Overworld Enemies_23: -7610840063035636885
+      Overworld Enemies_91: -2816750686792379306
+      Overworld Enemies_72: -288526462509518991
+      Overworld Enemies_86: 3694624873378928536
+      Overworld Enemies_177: -150809173645001476
+      Overworld Enemies_123: 3179543118564376525
+      Overworld Enemies_163: -594700042505872148
+      Overworld Enemies_49: 249829475698510069
+      Overworld Enemies_185: 86055239539104799
+      Overworld Enemies_120: 4201756479292893415
+      Overworld Enemies_68: -8374804272715992640
+      Overworld Enemies_115: -7185364166185421698
+      Overworld Enemies_169: 5314656566996446564
+      Overworld Enemies_100: -6798286198345273486
+      Overworld Enemies_124: 7099699477883196325
+      Overworld Enemies_102: 1693036224694517963
+      Overworld Enemies_50: -7552358899521049614
+      Overworld Enemies_99: 7332275297161958902
+      Overworld Enemies_126: 9178590799432903320
+      Overworld Enemies_134: -3759210722551251063
+      Overworld Enemies_182: -1073427135327935719
+      Overworld Enemies_151: 5175649141775094035
+      Overworld Enemies_84: -4085651225453518334
+      Red Octorok_Down_Idle_01: -8730454337814200269
+      Overworld Enemies_63: -3337800499531534466
+      Overworld Enemies_96: -8490269057282314443
+      Overworld Enemies_181: -136503869697125805
+      Overworld Enemies_162: -5481015629576838102
+      Overworld Enemies_152: 5628557595703306307
+      Red Octorok_Right_Idle_01: 3160082287131160703
+      EndBoss_Down_01: 2153535124197978440
+      Red Octorok_Right_Walk_02: -3297648184262409386
+      Overworld Enemies_135: -1195125721396186273
+      Overworld Enemies_122: 5379865853900359031
+      Overworld Enemies_176: -4346888701081361049
+      EndBoss_Up_02: -5931858769686612574
+      Overworld Enemies_88: 3195507273009091290
+      Red Octorok_Down_Walk_02: -3143006809252994826
+      Overworld Enemies_111: -6416237109769650074
+      Blue Octorok_Up_Idle_01: 6949535642688093731
+      Overworld Enemies_69: -5883654605547214343
+      Overworld Enemies_186: 4885170918047300131
+      Overworld Enemies_74: 6502039469344489866
+      Overworld Enemies_98: 3987553177849387675
+      Overworld Enemies_45: -98824415959018105
+      Overworld Enemies_154: 7904071157076654060
+      Overworld Enemies_170: -6528424338158499967
+      Overworld Enemies_62: -3556159896529330817
+      Overworld Enemies_80: 3171760350951436171
+      Blue Octorok_Right_Walk_02: -3632067773389686725
+      Overworld Enemies_95: -3720706897444613697
+      Overworld Enemies_109: 6129459153118029503
+      Overworld Enemies_113: 6142308250036436224
+      Overworld Enemies_188: -2048636302391374979
+      Overworld Enemies_92: 8700564132070383560
+      Overworld Enemies_125: -3093741308454539435
+      Overworld Enemies_149: 6784149337912267441
+      EndBoss_Left_02: -3180691264696410299
+      Overworld Enemies_193: -9004402733745544067
+      EndBoss_Right_02: 1615017561430090307
+      Overworld Enemies_58: 8374197127009688195
+      Overworld Enemies_161: -5561847641925090215
+      Overworld Enemies_19: 7933049225321570225
+      Overworld Enemies_107: -1725950521770576024
+      Overworld Enemies_83: -2423549666013002445
+      Overworld Enemies_166: -3042072797215242152
+      Overworld Enemies_82: 9044086317396204405
+      Overworld Enemies_184: -2615172730487717519
+      Overworld Enemies_140: -3175254011810940837
+      Overworld Enemies_146: 3716029176576357506
+      Overworld Enemies_56: 2844056486705126611
+      Overworld Enemies_67: -7602347835826813247
+      Overworld Enemies_97: 6554860933395000947
+      Overworld Enemies_192: 5658754139662049932
+      Blue Octorok_Left_Walk_02: 5613563519233859797
+      Overworld Enemies_112: 5799773168714559698
+      Overworld Enemies_156: -7645703718682792991
+      Overworld Enemies_183: 1299460078910653134
+      Overworld Enemies_89: 690605399553477204
+      Overworld Enemies_17: 7839268753429416710
+      Overworld Enemies_143: -5261165694632111598
+      Overworld Enemies_25: -5062596717115594593
+      Overworld Enemies_171: 3889100113203002302
+      Overworld Enemies_118: 6336001874271003244
+      Overworld Enemies_51: -5451297892826776141
+      Overworld Enemies_22: -6065323645902491296
+      Overworld Enemies_160: -1343095746739795156
+      Overworld Enemies_42: -589940896443337051
+      Overworld Enemies_39: 9143166954354511627
+      Overworld Enemies_106: 6755985968045849339
+      Overworld Enemies_61: -444966433798331399
+      Overworld Enemies_108: -7604332840160243780
+      Overworld Enemies_133: -1939443486961659572
+      Overworld Enemies_48: -5203094625190177117
+      Overworld Enemies_164: 4965004878886971295
+      Overworld Enemies_180: -6519998861640579600
+      Spawn_Explosie_03: 5559086203803028666
+      Overworld Enemies_136: 7062646995305601662
+      Overworld Enemies_40: -7923632159636798500
+      Blue Octorok_Right_Idle_01: -4348394525731003560
+      Overworld Enemies_52: -331363919366804624
+      Overworld Enemies_57: -5626321837468096522
+      Overworld Enemies_79: -2354307211012736119
+      Overworld Enemies_187: -6793790291062889931
+      EndBoss_Down_02: -5787431501357925944
+      Overworld Enemies_142: -3533880531692130215
+      Overworld Enemies_179: 1859797947790956004
+      Overworld Enemies_157: 9173189599061166646
+      Overworld Enemies_168: 3404644628027526904
+      Overworld Enemies_178: 6860036648829853368
+      Overworld Enemies_38: 7235124635885144955
+      EndBoss_Left_01: 4275956235107179582
+      Overworld Enemies_90: -6665895102931661506
+      Spawn_Explosie_01: 2364397552961156161
+      Overworld Enemies_190: 3053787710231174430
+      Overworld Enemies_103: 4211505453877283073
+      Overworld Enemies_27: 6048161378916571431
+      Overworld Enemies_77: -3450432160622643618
+      Overworld Enemies_53: -9205090381562528969
+      Overworld Enemies_116: 1290566325080790191
+      Overworld Enemies_145: -6508402371307361000
+      Rock_Projectile: -5840466563482875041
+      Overworld Enemies_60: 4297450706344290690
+      Overworld Enemies_147: 8004642766225512028
+      Overworld Enemies_101: -6356648972892297208
+      Overworld Enemies_165: -8150713351714034521
+      Overworld Enemies_41: -2056392804523386818
+      Overworld Enemies_87: 6101994643981932385
+      Red Octorok_Up_Idle_01: -5981452176095602635
+      Red Octorok_Left_Walk_02: -2591238218438567548
+      Overworld Enemies_153: 309292558450348647
+      Overworld Enemies_66: 8900494355795416851
+      Red Octorok_Left_Idle_01: -8252857350835897824
+      Overworld Enemies_73: 8213109339518616148
+      Overworld Enemies_47: 4802445066307226454
+      Overworld Enemies_93: -931927692715043782
+      Blue Octorok_Left_Idle_01: -7311520322289685051
+      Overworld Enemies_148: -7746831549301398495
+      Overworld Enemies_76: 2701503694141648474
+      Overworld Enemies_174: 1783226925578426196
+      Overworld Enemies_94: 6430109512332308091
+      Overworld Enemies_119: -1820538010136365435
+      Overworld Enemies_21: 3537060932733250282
+      Overworld Enemies_43: 2470161762096507389
+      Blue Octorok_Down_Idle_01: 6525628187772723996
+      Overworld Enemies_44: -4005718587224040065
+      Overworld Enemies_54: -2808987306732103424
+      Overworld Enemies_138: 8322793579170356323
+      Overworld Enemies_172: 2073960810932195478
+      Overworld Enemies_71: -7132290317868264669
+      Overworld Enemies_173: -7406100507093493521
+      Overworld Enemies_20: -5673624771958552799
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
